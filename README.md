@@ -12,7 +12,7 @@
 </p>
 
 # Sobre
-<p>Simulação básica de Sistema Bancário que mostra o saldo atual da conta depois da aplicação das funcionalidades de transferir, pagamento, recarga de celular e empréstimo.  </p>
+<p>Simulação básica de Sistema Bancário que mostra o saldo atual da conta depois da aplicação das funcionalidades de depositar, transferir, pagamento, recarga de celular e empréstimo.  </p>
 
 # Objetivo
 <p>
