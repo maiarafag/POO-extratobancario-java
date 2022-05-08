@@ -7,8 +7,7 @@
  <a href="#sobre">Sobre</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#demonstracao">Demonstração</a>
+ <a href="#pre-requisitos">Pré Requisitos</a> 
  
 </p>
 
@@ -35,8 +34,3 @@
 
 </p>
 
-# Demonstracao
-
-<h1 align="center">
-  <img alt="Resultado" title="#Resultado" src="./poo/Result.png" />
-</h1>
